@@ -2,7 +2,8 @@
 
 This game is made for understanding of bash scripting.
 
-To play you just need to download the game.sh file and run he script.
+this is bash script so either you need linux or git bash/VScode/etc....  
+To play you just need to download the game.sh file and run the script.
 
     bash games.sh
 
